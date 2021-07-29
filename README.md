@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Software-Frontier
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in web, mobile android/ios, desktop, game development.
+- 🌱 I’m currently learning web, mobile android/ios, desktop, game development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
